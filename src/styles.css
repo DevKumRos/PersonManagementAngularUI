@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+
+.has-error  {
+    color: #a94442;
+  }
+
+ .mr-4{
+  margin:4px !important
+ } 
